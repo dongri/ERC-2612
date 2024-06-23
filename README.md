@@ -1,4 +1,4 @@
-# ERC-3009 Sample Implementation
+# EIP-2612 Sample Implementation
 
 ## EIP-2612
 https://eips.ethereum.org/EIPS/eip-2612
