@@ -1,7 +1,7 @@
 # Relayer
 
 ```
-$ docker-compose up -d
+$ docker-compose up --build
 
-Server running on port 3001
+http://localhost:80
 ```
